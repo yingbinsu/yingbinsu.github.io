@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yingbin Su"
 excerpt: ""
 author_profile: true
 redirect_from: 
