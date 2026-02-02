@@ -2,7 +2,7 @@
 permalink: /
 title: "苏迎滨"
 excerpt: "个人简介"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
 ---
